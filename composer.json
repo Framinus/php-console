@@ -1,0 +1,14 @@
+{
+    "name": "jamesmccormack/php-console",
+    "authors": [
+        {
+            "name": "James McCormack",
+            "email": "thejamesmccormack@gmail.com"
+        }
+    ],
+    "require": {
+        "hellosign/hellosign-php-sdk": "^3.5",
+        "symfony/dotenv": "^4.1",
+        "nategood/httpful": "^0.2.20"
+    }
+}
